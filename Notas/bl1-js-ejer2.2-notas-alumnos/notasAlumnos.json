@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "nia": 165432,
+        "alumno": {
+            "nombre": "Marta",
+            "apellido": "Rodríguez"
+        },
+        "notas": {
+            "dwec": 7.2,
+            "dwes": 4.8,
+            "diw": 8.5,
+            "daw": 9.3,
+            "eie": 6,
+            "ing": 6.1
+        }
+    },
+    {
+        "id": 3,
+        "nia": 135642,
+        "alumno": {
+            "nombre": "Marc",
+            "apellido": "Monllor"
+        },
+        "notas": {
+            "dwec": 3.2,
+            "dwes": 3.8,
+            "diw": 4.5,
+            "daw": 5.3,
+            "eie": 3.8,
+            "ing": 2.1
+        }
+    },
+    {
+        "id": 4,
+        "nia": 126534,
+        "alumno": {
+            "nombre": "Anna",
+            "apellido": "Abad"
+        },
+        "notas": {
+            "dwec": 5.6,
+            "dwes": 6,
+            "diw": 7.5,
+            "daw": 5.3,
+            "eie": 9,
+            "ing": 9.1
+        }
+    },
+    {
+        "id": 5,
+        "nia": 15326,
+        "alumno": {
+            "nombre": "Fran",
+            "apellido": "Ferrer"
+        },
+        "notas": {
+            "dwec": 6.2,
+            "dwes": 9.8,
+            "diw": 6.5,
+            "daw": 8.3,
+            "eie": 9,
+            "ing": 7.1
+        }
+    },
+    {
+        "id": 6,
+        "nia": 198765,
+        "alumno": {
+            "nombre": "Maria",
+            "apellido": "Martí"
+        },
+        "notas": {
+            "dwec": 9.2,
+            "dwes": 6.4,
+            "diw": 7.5,
+            "daw": 5.3,
+            "eie": 5,
+            "ing": 7.1
+        }
+    },
+    {
+        "id": 7,
+        "nia": 123456,
+        "alumno": {
+            "nombre": "Juan",
+            "apellido": "Segura"
+        },
+        "notas": {
+            "dwec": 5.2,
+            "dwes": 6.8,
+            "diw": 4.5,
+            "daw": 7.3,
+            "eie": 8,
+            "ing": 5.1
+        }
+    },
+    {
+        "id": 9,
+        "nia": 182736,
+        "alumno": {
+            "nombre": "Felipe",
+            "apellido": "Creus"
+        },
+        "notas": {
+            "dwec": 3.2,
+            "dwes": 2.8,
+            "diw": 2.5,
+            "daw": 4.3,
+            "eie": 5,
+            "ing": 5
+        }
+    },
+    {
+        "id": 11,
+        "nia": 123456,
+        "alumno": {
+            "nombre": "Adrián",
+            "apellido": "Agulló"
+        },
+        "notas": {
+            "dwec": 7.2,
+            "dwes": 9.8,
+            "diw": 7.5,
+            "daw": 4.3,
+            "eie": 5,
+            "ing": 8
+        }
+    },
+    {
+        "id": 12,
+        "nia": 122334,
+        "alumno": {
+            "nombre": "Rosa",
+            "apellido": "Reig"
+        },
+        "notas": {
+            "dwec": 5,
+            "dwes": 8.8,
+            "diw": 5,
+            "daw": 7.2,
+            "eie": 5,
+            "ing": 8.1
+        }
+    }
+]
